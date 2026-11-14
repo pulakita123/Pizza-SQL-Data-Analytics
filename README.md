@@ -29,6 +29,7 @@ I first used MySQL to organise the data and perform SQL analysis. I then used Po
 ## Dataset Description
 
 The project uses four CSV files:
+<img width="355" height="320" alt="Screenshot 2026-11-15 013117" src="https://github.com/user-attachments/assets/d7e45554-ed42-4dd9-ba2b-fbcca695281c" />
 
 | File | Description |
 |---|---|
@@ -83,6 +84,7 @@ The SQL techniques used include:
 I created a two-page dashboard to present the sales analysis.
 
 ### Page 1 – Executive Sales Overview
+<img width="578" height="328" alt="Screenshot 2026-11-15 003442" src="https://github.com/user-attachments/assets/9b3945ec-17a4-4bd8-ae09-4ab6021412b2" />
 
 The first page provides an overview of the pizza shop's sales performance.
 
@@ -103,6 +105,7 @@ It includes:
 It also includes date, size and category filters.
 
 ### Page 2 – Product and Sales Performance
+<img width="574" height="323" alt="Screenshot 2026-11-15 003335" src="https://github.com/user-attachments/assets/c11e4eda-e551-40e2-b1ec-0dfd96945128" />
 
 The second page focuses on product-level performance.
 
